@@ -18,6 +18,8 @@ For this data set the Random Forest model works very well.
 
 I further tuned the model by choosing the best features and doing grid search on it. 
 
+Neural network and deep learning models are in NeuralNetworkModel and DeepLearning folders respectively.
+
 To open the Neural Network and Deep learning models use ```keras.models.load_model(filepath)``` 
 
 You need to have ```from tensorflow import keras```
