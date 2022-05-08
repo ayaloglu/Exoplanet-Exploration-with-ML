@@ -6,13 +6,13 @@ The column name explanations can be found here; https://exoplanetarchive.ipac.ca
 
 I removed all "error" columns from the feature list. 
 
-I applied Random Forest, KNN, Neural network and deep learning to my dataset. 
+I applied **Random Forest, KNN, Neural network** and **deep learning** to my dataset. 
 
-I got a very good result with Random Forest. 
+I got very good result with Random Forest. 
 
-I checked the importance of each feature and removed the bottom 4 that had little impact on the model. 
+I checked the importance of each **feature** and removed the bottom 4 that had little impact on the model. 
 
-I fine tuned the model with trying several grid parameters and saw that it is not improving after 89%. 
+I *fine tuned* the model with trying several **grid parameters** and saw that it is not improving after 89%. 
 
 For this data set the Random Forest model works very well. 
 
